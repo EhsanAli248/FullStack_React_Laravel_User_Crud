@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "id": 6,
+      "name": "mureed hussain",
+      "email": "mureed@gmail.com",
+      "phone": "1520",
+      "role": "staff"
+    },
+    {
+      "id": 7,
+      "name": "Ehsan Ali",
+      "email": "ehsan@gmail.com",
+      "phone": "112215",
+      "role": "admin"
+    }
+  ]
+}
